@@ -25,7 +25,9 @@
 
 > `16559714`（嵌入式linux爱好者交流群，讨论应用编程、驱动开发、内核裁剪、系统移植等问题）
 
-*如有相关建议或者意见，欢迎到留言簿页面（<http://www.geaya.com/guestbook>）进行交流~*
+*如有相关建议或者意见，欢迎到留言簿页面（<http://www.geaya.com/guestbook.html>）进行交流~*
+
+---
 
 Github：<https://github.com/shuxiao9058>
 
