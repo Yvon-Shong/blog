@@ -1,7 +1,7 @@
 ---
 title: demo
 tags: demo
-categroy: 
+categroy: others
 ---
 
 Write you posts in *markdown*.
