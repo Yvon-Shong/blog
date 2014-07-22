@@ -1,34 +1,19 @@
 ---
 
-本站点域名<http://www.geaya.com>于2013年6月25日开始使用，最初将WP在BAE上架设，后来也将其放在SAE上试过，但深觉其功能受限或性能较差，遂于2013年7月10日左右将网站部署于国外某主机上，感谢海林童鞋<http://www.seatree.me>友情提供主机；2014年7月7日在[hellohost][1]买了一个VPS，并把博客迁移到typecho平台。
+- 于2013年6月25日注册该域名<http://geaya.com>开始使用，最初使用[WordPress][1]；
+- 于2014年7月7日在[hellohost][2]买了一个VPS，并将博客迁移到[typecho][3]平台。
 
-- 博主简介
-> 季亚，男，酷爱Linux，专注于C/C++程序设计语言、数据结构与算法分析、Linux基础应用等，深知自己不甚编程；为人和善，喜欢结交有共同爱好的朋友，但不善交流，比较固执
+    
+    **如有相关建议或者意见，欢迎到留言簿页面（<http://geaya.com/guestbook.html>）进行交流~**
 
-- 爱好
 
-> 上网、听歌、交友、捣腾
+<ul align="center">
+<font size="10">
+<a class="icon-sina-weibo" target="_blank" href="http://weibo.com/shuxiao9058"></a>
+<a class="icon-github" target="_blank" href="https://github.com/shuxiao9058"></a>
+</font>
+</ul>
 
-- 版权声明
-
-> 对于本博客所有原创文章，允许个人、教育和非商业目的使用，但务必保证文章的完整性且不作任何修改地以超链接形式注明原始作者和出处
-
-- 问题反馈
-
-> 如果我的博文对您有所帮助，欢迎评论留言，这是对我最大的鼓励与支持；如果发现我的博文有谬误，请您务必指正，这是对我和其他读者的莫大帮助
-
-- Email
-
-> `shuxiao9058#qq.com`（请将#替换为@）
-
-- QQ交流群
-
-> `16559714`（嵌入式linux爱好者交流群，讨论应用编程、驱动开发、内核裁剪、系统移植等问题）
-
-*如有相关建议或者意见，欢迎到留言簿页面（<http://www.geaya.com/guestbook.html>）进行交流~*
-
----
-
-Github：<https://github.com/shuxiao9058>
-
- [1]: http://hhmembers.net/aff.php?aff=777
+ [1]: http://wordpress.org/
+ [2]: http://hhmembers.net/aff.php?aff=777
+ [3]: http://typecho.org/about
