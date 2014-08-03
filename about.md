@@ -6,13 +6,10 @@
     
     **如有相关建议或者意见，欢迎到[留言簿页面][4]进行交流~**
 
-
-<ul align="center">
-<font size="10">
-<a class="icon-sina-weibo" target="_blank" href="http://weibo.com/shuxiao9058"></a>
-<a class="icon-github" target="_blank" href="https://github.com/shuxiao9058"></a>
-</font>
-</ul>
+### Contact
+> * Email：shuxiao9058 (at) qq (dot) com
+> * Github：<https://github.com/shuxiao9058>
+> * Sina Weibo: <http://weibo.com/shuxiao9058>
 
  [1]: http://wordpress.org/
  [2]: http://hhmembers.net/aff.php?aff=777
